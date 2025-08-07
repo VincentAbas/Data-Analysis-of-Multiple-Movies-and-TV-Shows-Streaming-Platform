@@ -59,7 +59,7 @@
   - This shows the number of Movies and Tv Shows that have these different ratings.
 <img width="1250" height="790" alt="Number of Movie Ratings in each streaming platform" src="https://github.com/user-attachments/assets/96d4761e-5f9d-45c4-a322-b221c9d625e4" />
 
-    It shows that there are more mature Movies/TV Shows in Netflix than Amazon Prime as doing the calculations Netflix have 3344 Movies/TV shows intended for 18+/Mature Audiences however Amazon Prime have 2203 Movies/TV shows intended for 18+/Mature Audiences.
+  - It shows that there are more mature Movies/TV Shows in Netflix than Amazon Prime as doing the calculations Netflix have 3344 Movies/TV shows intended for 18+/Mature Audiences however Amazon Prime have 2203 Movies/TV shows intended for 18+/Mature Audiences.
 
 # Recommendations
 
