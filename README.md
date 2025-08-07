@@ -19,6 +19,10 @@
 ## One-Hot Encoding
   - I used One-Hot Encoding on the genres as there are movies/tv shows that listed multiple genres in one column. Since its a lot of genres I removed the duplicated ones like (Standup, Standup Comedy) and the genres that provide too little information.
 
+# Executive Summary of Findings 
+  - You can view the Dashboard [here.](https://public.tableau.com/app/profile/vincent.abas/viz/StreamingPlatformAnalysisDashoard/Dashboard1#1)
+ <img width="1015" height="596" alt="Dashboard" src="https://github.com/user-attachments/assets/05b71443-08ce-4ada-8e99-021e9d235403" />
+
 # Deep Dive and Insights
 
 ## Genre Trends
@@ -41,6 +45,7 @@
         - Elia Kazantzoglou a Greek-American film and Theatre director, producer, screenwriter, and actor says we love drama not because we enjoy suffering, but because we’re moved by triumph through adversity. It helps us process pain, discover meaning, and feel affirmed. Drama shows us people growing through struggle, and that resonates with our human desire to make sense of a chaotic world. That’s why, despite everything, we keep watching and writing.
         
 ## Media Types
+  - This graph shows the which Media types is more popular overtime as well as what duration is most used in both type of medias.
 <p align="center">
   <img  width="500" src="https://github.com/user-attachments/assets/5a857dc3-975c-4a14-a68f-f512a7d46186" />
   <img width="250" src="https://github.com/user-attachments/assets/f8f97c1c-54d7-4d96-8ea1-efee372c8f8d" />
@@ -50,11 +55,13 @@
     
     And considering the fact that starting from Pre-Production of the movies it takes about a minimum of 14 months up to 21 months to deliver the full product according to this [article](https://stephenfollows.com/p/how-long-the-average-hollywood-movie-take-to-make?hubs_content=br.hubspot.com%2525252Fblog&hubs_content-cta=null&hubs_post=br.hubspot.com%25252525252Fblog%25252525252Fservice&hubs_post-cta=null&partner_key=jeanfran%252525252525C3%252525252525A7oistourel) and TV shows get about 12 - 18 months according to this [article](https://ken-aguado.medium.com/the-timeline-for-the-making-of-a-tv-series-3b1fcb7f8448). Why is the production of movies keeps increasing and not the TV shows? I think that a TV show requires a great amount of effort compared to movies in terms of making a script, story, and planning of it all as TV shows usually have a longer showing period compared to movies. And comparing The [highest grossing movie](https://www.boxofficemojo.com/chart/top_lifetime_gross/?area=XWW) **Avatar** accumulating $2.9 Billion and [The highest grossing TV show](https://www.brandvm.com/post/tv-shows-made-the-most-money) **The Simpsons** accumulating $14 Billion. Granted it will always depend on whether your medium is good enought to captivate your target audiences as well as to bring new audiences.
 
+## Movie Ratings
+  - This shows the number of Movies and Tv Shows that have these different ratings.
+<img width="1250" height="790" alt="Number of Movie Ratings in each streaming platform" src="https://github.com/user-attachments/assets/96d4761e-5f9d-45c4-a322-b221c9d625e4" />
 
-    
-# Executive Summary of Findings 
-  - You can view the Dashboard [here.](https://public.tableau.com/app/profile/vincent.abas/viz/StreamingPlatformAnalysisDashoard/Dashboard1#1)
- <img width="1015" height="596" alt="Dashboard" src="https://github.com/user-attachments/assets/05b71443-08ce-4ada-8e99-021e9d235403" />
+    It shows that there are more mature Movies/TV Shows in Netflix than Amazon Prime as doing the calculations Netflix have 3344 Movies/TV shows intended for 18+/Mature Audiences however Amazon Prime have 2203 Movies/TV shows intended for 18+/Mature Audiences.
+
+# Recommendations
 
 
 
