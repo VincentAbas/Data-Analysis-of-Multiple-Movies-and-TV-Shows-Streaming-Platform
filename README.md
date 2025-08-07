@@ -19,30 +19,37 @@
 ## One-Hot Encoding
   - I used One-Hot Encoding on the genres as there are movies/tv shows that listed multiple genres in one column. Since its a lot of genres I removed the duplicated ones like (Standup, Standup Comedy) and the genres that provide too little information.
 
-# Deep Dive into the Data
+# Deep Dive and Insights
 
 ## Genre Trends
  - Here shows the top 5 genres from 1920 - 2021
-<img width="1249" height="722" alt="Genre Popularity over time" src="https://github.com/user-attachments/assets/e54f39b8-427b-42ad-b394-a754ed0e041b" />
+<img width="1049" height="522" alt="Genre Popularity over time" src="https://github.com/user-attachments/assets/e54f39b8-427b-42ad-b394-a754ed0e041b" />
 
   - Drama and Comedy
     
-    - Movies and Tv Shows has been in a stalemate until the year 1994 where movies becomes a big hit especially movies with Drama and/or Comedy as their main genre as this is when the big hit movies like (This list is from [IMDB](https://www.imdb.com/list/ls070069226/)):
+    - Movies and Tv Shows has been in a stalemate until the year 1994 where movies becomes a big hit especially movies with Drama and/or Comedy as their main or sub-genre as this is when the big hit movies like (This list is from [IMDB](https://www.imdb.com/list/ls070069226/)):
       - Forrest Gump with a rating of 8.8
       - The Shawshank Redemption with a rating of 9.3
       - Pulp Fiction with a rating of 8.8
       - And the one of the most known animation movie, The Lion King with a rating of 8.5
   
-    - Not only that this is the year where the well known Actor Jim Carrey Makes a name of himself with the movies like The Mask, Ace Ventura: Pet Detective, Dumb and Dumber. The Genre Drama and Comedy has been on a climb ever since.
+    - Not only that this is the year where the well known Actor Jim Carrey Makes a name of himself with the movies like The Mask, Ace Ventura: Pet Detective, Dumb and Dumber. The Drama and Comedy genres has been on a climb ever since.
   
     - But Why is Drama always enjoyed by the masses?
       - According to Oxford American article called "Why We Like Drama" by Graham Gordy. You can find it [here](https://oxfordamerican.org/magazine/issue-66-fall-2009/why-we-like-drama).
       
         - Elia Kazantzoglou a Greek-American film and Theatre director, producer, screenwriter, and actor says we love drama not because we enjoy suffering, but because we’re moved by triumph through adversity. It helps us process pain, discover meaning, and feel affirmed. Drama shows us people growing through struggle, and that resonates with our human desire to make sense of a chaotic world. That’s why, despite everything, we keep watching and writing.
+        
+## Media Types
+<p align="center">
+  <img  width="500" src="https://github.com/user-attachments/assets/5a857dc3-975c-4a14-a68f-f512a7d46186" />
+  <img width="250" src="https://github.com/user-attachments/assets/f8f97c1c-54d7-4d96-8ea1-efee372c8f8d" />
+</p>
+
 
 # Executive Summary of Findings 
   - You can view the Dashboard [here.](https://public.tableau.com/app/profile/vincent.abas/viz/StreamingPlatformAnalysisDashoard/Dashboard1#1)
- <img width="1415" height="796" alt="Dashboard" src="https://github.com/user-attachments/assets/05b71443-08ce-4ada-8e99-021e9d235403" />
+ <img width="1015" height="596" alt="Dashboard" src="https://github.com/user-attachments/assets/05b71443-08ce-4ada-8e99-021e9d235403" />
 
 
 
