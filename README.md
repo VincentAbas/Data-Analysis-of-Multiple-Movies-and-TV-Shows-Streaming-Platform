@@ -20,7 +20,7 @@
   - I used One-Hot Encoding on the genres as there are movies/tv shows that listed multiple genres in one column. Since its a lot of genres I removed the duplicated ones like (Standup, Standup Comedy) and the genres that provide too little information.
 
 # Deep Dive into the Data
-<img width="1304" height="782" alt="Genre Popularity over time" src="https://github.com/user-attachments/assets/11e68da0-bbcf-41e0-b6e7-d776c654a931" />
+
 
 
   - Movies and Tv Shows has been in a stalemate until the year 1994 where movies becomes a big hit especially movies with Drama and/or Comedy as their main genre as this is when the big hit movies like (This list is from [IMDB](https://www.imdb.com/list/ls070069226/)):
