@@ -38,7 +38,7 @@
 
 # Executive Summary of Findings 
   - You can view the Dashboard [here.](https://public.tableau.com/app/profile/vincent.abas/viz/StreamingPlatformAnalysisDashoard/Dashboard1#1)
-<img width="1431" height="802" alt="Dashboard" src="https://github.com/user-attachments/assets/7c1ec798-2639-4915-98ea-8464ace0c870" />
+
 
   
 
