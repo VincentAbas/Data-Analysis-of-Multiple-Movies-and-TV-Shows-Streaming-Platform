@@ -23,6 +23,8 @@
   - You can view the Dashboard [here.](https://public.tableau.com/app/profile/vincent.abas/viz/StreamingPlatformAnalysisDashoard/Dashboard1#1)
  <img width="1015" height="596" alt="Dashboard" src="https://github.com/user-attachments/assets/05b71443-08ce-4ada-8e99-021e9d235403" />
 
+This project analyzes trends in genre popularity, media type preferences, and content ratings from 1920 to 2021. Drama and Comedy have consistently dominated, with a major boost in 1994 due to iconic releases like Forrest Gump and The Shawshank Redemption. While movies are produced more, TV shows dominate viewership—accounting for 75% of total viewing in netflix alone, highlighting a shift in audience behavior. Mature content is also more prevalent on Netflix than Amazon Prime, suggesting a targeted content strategy. Which is quite concerning as there are kids/teens that may be able to access those kinds of content given that kids are getting more tech savvy.
+
 # Deep Dive and Insights
 
 ## Genre Trends
@@ -61,7 +63,7 @@
   - This shows the number of Movies and Tv Shows that have these different ratings.
 <img width="1250" height="790" alt="Number of Movie Ratings in each streaming platform" src="https://github.com/user-attachments/assets/96d4761e-5f9d-45c4-a322-b221c9d625e4" />
 
-  - It shows that there are more mature Movies/TV Shows in Netflix than Amazon Prime as doing the calculations Netflix have 3344 Movies/TV shows intended for 18+/Mature Audiences however Amazon Prime have 2203 Movies/TV shows intended for 18+/Mature Audiences.
+  - It shows that there are more mature Movies/TV Shows in Netflix than Amazon Prime as doing the calculations Netflix have 3344 Movies/TV shows intended for 18+/Mature Audiences however Amazon Prime have 2203 Movies/TV shows intended for 18+/Mature Audiences. This suggests that they are targeting their audiences as Netflix's users consists of 33% Millenials, 26% Gen X, 22% Baby Boomers, and 18% Gen Z as shown [here](https://www.yaguara.co/amazon-prime-statistics/). This can also be said for Amazon Prime as their users consists of 27% Millennials, 35% Gen X, 33% Baby boomers and seniors, and 5% Gen Z. You can see it [here](https://www.yaguara.co/amazon-prime-statistics/)
 
 # Recommendations
   - Add drama to your Movies/TV shows as this gives a lot of substance to the story whether it is an Adventure, Horror, Romance. Drama makes the audiences relate more to the characters.
